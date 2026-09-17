@@ -1,1 +1,12 @@
 .DS_Store
+.env
+.env.*
+!.env.example
+*.age
+id_ed25519
+id_rsa
+AGE-SECRET-KEY*
+*.pem
+*.key
+runtime/
+secrets/
